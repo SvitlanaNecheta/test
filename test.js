@@ -1,2 +1,3 @@
-const test="test";
+const test="test"
+alert("чи привіт))
 alert("Hello World!");
