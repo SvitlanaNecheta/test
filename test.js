@@ -1,4 +1,3 @@
-const test="test";
-
-
-alert("чи привіт)))");
+const test="test"
+alert("чи привіт))
+alert("Hello World!");
